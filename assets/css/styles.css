@@ -13,7 +13,7 @@ body {
 }
 
 body {
-  background-color: #dffffc;
+  background-color: #f8f8ff;
 }
 /*********************************************************************
 
@@ -69,7 +69,7 @@ body {
   padding: 5px 30px;
 }
 .navbar-default {
-  background-color: #ffffff;
+  background-color: #e5e4e2;
   border-color: #cccccc;
 }
 .navbar-default .navbar-nav > li > a {
@@ -78,13 +78,13 @@ body {
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #000000;
-  background-color: #ffffff;
+  background-color: #e5e4e2;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #000000;
-  background-color: #ffffff;
+  background-color: #e5e4e2;
 }
 .navbar-default .dropdown ul.dropdown-menu > li > a {
   color: #454545;
@@ -98,7 +98,7 @@ body {
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #ffffff;
+  background-color: #e5e4e2;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #333333;
@@ -110,7 +110,7 @@ body {
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background-color: #ffffff;
+  background-color: #e5e4e2;
   color: #000000;
 }
 /****************************************************************************************
