@@ -46,7 +46,7 @@ body {
   border-radius: 0;
   background-clip: padding-box;
   font-family: "Open sans", Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-weight: bold;
   text-transform: uppercase;
 }
 .navbar-collapse .navbar-nav {
