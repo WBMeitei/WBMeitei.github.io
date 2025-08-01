@@ -258,7 +258,17 @@
 
 			<div class="col-md-6 widget">
 				<div class="widget-body">
-					<p class="text-right"> Copyright &copy; <script>document.write(new Date().getFullYear()); </script>, W. B. Meitei</p>
+					<p class="text-right"> Copyright &copy; <script>document.write(new Date().getFullYear()); </script>, W. B. Meitei<br>
+Visitors: <span id="visitorCount">Loading...</span>
+<script>
+    // Simple page view counter using LocalStorage as a demo
+    let count = localStorage.getItem('siteVisitCount');
+    if (count === null) count = 0;
+    count++;
+    localStorage.setItem('siteVisitCount', count);
+    document.getElementById('visitorCount').textContent = count;
+  </script></p>
+
 				</div>
 			</div>
 
