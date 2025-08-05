@@ -12,6 +12,8 @@ Bug tracker:
 Found a bug? Please create an issue here on GitHub! https://github.com/pozh/Initio/issues
 
 
+
+
 Credits
 -------
 * Design and development: **Sergey Pozhilov** - http://pozhilov.com
