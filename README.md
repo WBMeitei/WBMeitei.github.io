@@ -1,6 +1,7 @@
 This website is built using the "Initio - Free, multipurpose HTML5 template"
 
 Initio is a fully featured HTML5 theme which helps create a stylish personal or company website. One can fork this template from https://github.com/pixonte/Initio
+The original version of the HTML5 template used a different icon style, but I've changed it to "fontawesome 7". It can be accessed from https://fontawesome.com/icons/packs/brands
 
 
 License:
